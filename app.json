@@ -1,0 +1,12 @@
+{
+  "name": "expo-camera",
+  "displayName": "expo-camera",
+  "expo": {
+    "name": "expo-camera",
+    "slug": "expo-camera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
